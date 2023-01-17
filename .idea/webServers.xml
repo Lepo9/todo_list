@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="76f7c4b6-b1d3-4e07-a624-c4bcaf5d7427" name="xampp" url="http://localhost/todo_list">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\todo_list" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
