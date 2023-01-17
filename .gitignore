@@ -1,3 +1,6 @@
 # Project exclude paths
 /vendor/composer/
 /vendor/league/plates/
+/conf/config.local.php
+/conf/config.php
+/conf/config.production.php
